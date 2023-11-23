@@ -1,12 +1,10 @@
-# Next.js with react-bootstrap example
+# Next.js menggunakan react-bootstrap
 
 This example shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/).
 
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-react-bootstrap)
 
 ## How to use
 
